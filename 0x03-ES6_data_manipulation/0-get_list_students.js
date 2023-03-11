@@ -1,9 +1,6 @@
 #!/opt/node12/bin/node
 
-/*Create a function named getListStudents that returns an array of objects.
-
-    Each object should have three attributes: id (Number), firstName (String), and location (String).
-    */
+// Create a function named getListStudents that returns an array of objects.
 
 export default function getListStudents() {
   return [
